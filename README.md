@@ -48,6 +48,12 @@ Linear Regression
 
 The trained model can predict health insurance charges for **new data** entered by the user. By providing details such as age, gender, BMI, smoking status, number of children, and region, the model estimates the expected insurance charges.
 
+<h2>Results</h2>
+
+- Successfully predicted health insurance charges using Linear Regression.
+- Achieved good prediction accuracy based on MSE and R² Score.
+- Generated predictions for new user input data.
+
 <h2>Author</h2>
 
 Jessima Afrin
