@@ -36,10 +36,11 @@ Linear Regression
 + Mean Squared Error (MSE)
 + R² Score
 
-<h2>Features</h2>
+<h2>Workflow</h2>
 
-+ Data preprocessing
++ Load the data
 + Exploratory Data Analysis (EDA)
++ Data Preprocessing
 + Model training and evaluation
 + Insurance charge prediction
 + Performance comparison of multiple models
